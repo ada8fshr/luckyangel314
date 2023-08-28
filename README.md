@@ -1,10 +1,10 @@
-### Hi everyone! With me, success is in your hands 👋
-
+### Hi everyone! Your lucky Angel is not far from you! 👋
+<h5>Please visit <a href='https://threejs-portfolio-5p4w.onrender.com/'>my website</a>.</h5>
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
+<img src="https://avatars.githubusercontent.com/u/141997891?s=400&u=72496ec2f77edd425f2b62c1ce4206bf022d4e1e&v=4">
 </p>
 
-<h2 align="center">Who is Superbluestar🥇?</h2>
+<h2 align="center">Who is Lucky Angel🥇?</h2>
 <p>
 Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
 
@@ -14,9 +14,6 @@ Passionate Full-stack Developer specialized in scalable web & mobile development
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperBluestar&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-</p>
-<p align="center">
-  <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
