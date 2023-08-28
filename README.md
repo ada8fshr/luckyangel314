@@ -4,7 +4,7 @@
 <img src="https://avatars.githubusercontent.com/u/141997891?s=400&u=72496ec2f77edd425f2b62c1ce4206bf022d4e1e&v=4" width="200px" height="200px" style="border-radius:50px;">
 </p>
 
-<h2 align="center">Who is Lucky Angel🥇?</h2>
+<h2 align="center">Where is your Lucky Angel🥇?</h2>
 <p>
 Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
 
