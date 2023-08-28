@@ -1,7 +1,7 @@
 ### Hi everyone! Your lucky Angel is not far from you! 👋
-<h5>Please visit <a href='https://threejs-portfolio-5p4w.onrender.com/'>my website</a>.</h5>
+<h5>Please visit <a href='https://threejs-portfolio-5p4w.onrender.com/' target="_blank">my website</a>.</h5>
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/141997891?s=400&u=72496ec2f77edd425f2b62c1ce4206bf022d4e1e&v=4">
+<img src="https://avatars.githubusercontent.com/u/141997891?s=400&u=72496ec2f77edd425f2b62c1ce4206bf022d4e1e&v=4" width="200px" height="200px" style="border-radius:100px">
 </p>
 
 <h2 align="center">Who is Lucky Angel🥇?</h2>
